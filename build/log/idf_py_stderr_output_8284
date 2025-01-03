@@ -1,4 +1,0 @@
-[0;33m--- esp-idf-monitor 1.5.0 on /dev/ttyUSB0 115200[0m
-[0;33m--- Warning: ELF file '/home/mark/embedded/esp32-rgb-led/esp32-rgb-led/build/esp32-rgb-led.elf' does not exist[0m
-[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
-[0m
